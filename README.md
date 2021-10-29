@@ -33,3 +33,15 @@ Below are some API test samples that I tested in my experience.
 <img src="API-Test Images/Weather tests.jpg" witdh="400" height="500" >  
 
 -----------------
+
+## News Tests
+
+<img src="API-Test Images/News tests.jpg" witdh="400" height="500" >
+
+-----------------
+
+## OMDb API Tests
+
+<img src="API-Test Images/OMDb API tests.jpg" witdh="400" height="500" >
+
+-----------------
