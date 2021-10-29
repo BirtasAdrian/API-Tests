@@ -19,3 +19,11 @@ Below are some API test samples that I tested in my experience.
 **Update**
 
 <img src="API-Test Images/CRUD tests 3.jpg" witdh="400" height="500" >  
+
+-----------------
+
+**Delete**
+
+<img src="API-Test Images/CRUD tests 4.jpg" witdh="400" height="500" >  
+
+-----------------
