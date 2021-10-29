@@ -1,5 +1,5 @@
 # API-Tests
 
-Below are some Test Case samples that i wrote in my experience.
+Below are some API test samples that i wrote in my experience.
 
 -----------------
