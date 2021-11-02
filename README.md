@@ -14,6 +14,8 @@ Get single user by id.
 
 **Insert**
 
+Insert user by first name and last name.
+
 <img src="API-Test Images/CRUD tests 2.jpg">  
 
 -----------------
