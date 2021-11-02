@@ -5,6 +5,7 @@ Below are some API test samples that I tested in my experience.
 -----------------
 ## CRUD Tests
 **Read**
+Get single user by id
 
 <img src="API-Test Images/CRUD tests 1.jpg">  
 
