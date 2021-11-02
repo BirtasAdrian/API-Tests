@@ -22,6 +22,8 @@ Insert user by first name and last name.
 
 **Update**
 
+Update first name or last name of a user by id.
+
 <img src="API-Test Images/CRUD tests 3.jpg" >  
 
 -----------------
