@@ -32,7 +32,7 @@ Insert user by first name and last name.
 
 **Update**
 
-Update first name or last name of a user by id.
+Updates a user's first or last name by id.
 
 **Parameters:**
 
