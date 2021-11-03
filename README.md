@@ -62,7 +62,7 @@ API for searching weather forecast for 5 days with data every 3 hours by city na
 
 * key: q and value: Baia Mare represents the city
 * key: appid represent your unique API key generate by https://openweathermap.org/ 
-* key: units represent units of measurement, can take values: standard, metric and imperial 
+* key: units represents units of measurement, can take values: standard, metric and imperial 
 * key: lang and the value: ro represents the language
 
 <img src="API-Test Images/Weather tests.jpg" >  
