@@ -21,6 +21,11 @@ Get single user by id.
 
 Insert user by first name and last name.
 
+**Parameters:**
+
+* key: first_name and value: Adrian represents the first name. 
+* key: last_name and value: Birtas represents the last name.
+
 <img src="API-Test Images/CRUD tests 2.jpg">  
 
 -----------------
