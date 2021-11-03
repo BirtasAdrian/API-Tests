@@ -34,6 +34,10 @@ Insert user by first name and last name.
 
 Update first name or last name of a user by id.
 
+**Parameters:**
+
+* key: id and value: 64 represents the persons's id in the database. The other parameters represent the name and the last name.
+
 <img src="API-Test Images/CRUD tests 3.jpg" >  
 
 -----------------
