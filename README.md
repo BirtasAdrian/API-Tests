@@ -44,6 +44,12 @@ Updates a user's first or last name by id.
 
 **Delete**
 
+Delete a user by id.
+
+**Parameters:**
+
+* key: action and value: delete represents the action to delete a user by id. The other parameter is the user id.
+
 <img src="API-Test Images/CRUD tests 4.jpg" >  
 
 -----------------
