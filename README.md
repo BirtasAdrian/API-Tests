@@ -7,6 +7,7 @@ Below are some API test samples that I tested in my experience.
 **Read**
 
 Get single user by id.
+
 **Parameters:**
 
 * key: action and value:fetch_single represents the action to get a single user. 
