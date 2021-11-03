@@ -10,8 +10,8 @@ Get single user by id.
 
 **Parameters:**
 
-* key: action and value:fetch_single represents the action to get a single user. 
-* key: id and value:19 represents the user id.
+* key: action and value: fetch_single represents the action to get a single user. 
+* key: id and value: 19 represents the user id.
 
 <img src="API-Test Images/CRUD tests 1.jpg">  
 
