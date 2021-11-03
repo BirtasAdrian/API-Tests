@@ -72,11 +72,30 @@ API for searching weather forecast for 5 days with data every 3 hours by city na
 
 ## News Tests
 
+API for searching live articles from all over the web.
+
+**Parameters:**
+
+* key: apiKey represents your unique API key generate by https://newsapi.org 
+* key: q and value: Samsung represents keywords or phrases to search for in the article title and body 
+* key:language and value: en represents the language 
+* key: pageSize and value : 10 represents the number of results to return per page
+
 <img src="API-Test Images/News tests.jpg" >
 
 -----------------
 
 ## OMDb API Tests
+
+API to obtain movie innformation.
+
+**Parameters:**
+
+* key: **apiKey** represents your unique API key generate by https://www.omdbapi.com/
+* key: **t** and value: **Prince of persia** represents movie title to search for
+* key: **plot** and value: **full** return full plot.
+* key: **y** and value: **2010** represents year of relase.
+* key: **callback** and value: **jsonp** represents JSONP callback name.
 
 <img src="API-Test Images/OMDb API tests.jpg" >
 
