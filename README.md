@@ -77,7 +77,7 @@ API for searching live articles from all over the web.
 
 * key: **apiKey** represents your unique API key generate by https://newsapi.org 
 * key: **q** and value: **Samsung** represents the keyword to search for in the article title and body 
-* key:**language** and value: **en** represents the language 
+* key: **language** and value: **en** represents the language 
 * key: **pageSize** and value : **10** represents the number of results to return per page
 
 <img src="API-Test Images/News tests.jpg" >
