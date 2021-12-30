@@ -3,7 +3,7 @@
 Below are some API test samples that I tested from my experience.
 
 -----------------
-## CRUD Tests
+## CRUD Tests 
 **Read**
 
 Get single user by id.
