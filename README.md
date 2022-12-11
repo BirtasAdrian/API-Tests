@@ -86,7 +86,7 @@ API for searching live articles from all over the web.
 
 ## OMDb API Tests
 
-API to obtain movie innformation.
+API to obtain movie information.
 
 **Parameters:**
 
@@ -99,3 +99,28 @@ API to obtain movie innformation.
 <img src="API-Test Images/OMDb API tests.jpg" >
 
 -----------------
+## Swagger PetStore
+
+API to create a PetStore
+
+**Pet Collection**
+
+* Add a new pet to the store 
+
+![Add a new pet to the store](https://user-images.githubusercontent.com/90641668/206936293-cd0e55b5-22f0-4812-bc9e-dbc225e2b2c3.jpg)
+
+* Update an existing pet
+
+![Update an existing pet](https://user-images.githubusercontent.com/90641668/206936339-9a7f00c4-4ed2-490a-8904-4dfaab9285bd.jpg)
+
+* Find a pet by id
+
+![Find a pet by id](https://user-images.githubusercontent.com/90641668/206936352-0dd349e1-fa9e-42bd-afdd-20404cdbdffc.jpg)
+
+* Delete a pet by id
+
+![Delete a pet by id](https://user-images.githubusercontent.com/90641668/206936395-05f867bb-8f13-4aba-8fe1-58e433e05e41.jpg)
+
+
+
+
