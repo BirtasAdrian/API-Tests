@@ -121,6 +121,23 @@ API to create a PetStore
 
 ![Delete a pet by id](https://user-images.githubusercontent.com/90641668/206936395-05f867bb-8f13-4aba-8fe1-58e433e05e41.jpg)
 
+**Store Collection**
+
+* Place an order for a pet
+
+![Place an order for a pet](https://user-images.githubusercontent.com/90641668/206936754-66cfd35f-b5e7-4e21-82a7-62e79dc35a79.jpg)
+
+* Find purchase order by ID
+
+![Find purchase order by ID](https://user-images.githubusercontent.com/90641668/206936795-61cf5253-5f4f-4fa9-9ea0-98db98518aaf.jpg)
+
+* Delete purchase order by ID
+
+![Delete purchase order by ID](https://user-images.githubusercontent.com/90641668/206936822-7ffb9c19-ec9d-4c06-a7ad-6b868ed792ff.jpg)
+
+
+
+
 
 
 
