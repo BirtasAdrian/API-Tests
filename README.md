@@ -135,6 +135,42 @@ API to create a PetStore
 
 ![Delete purchase order by ID](https://user-images.githubusercontent.com/90641668/206936822-7ffb9c19-ec9d-4c06-a7ad-6b868ed792ff.jpg)
 
+**User Collection**
+
+* Create User
+
+![Create User](https://user-images.githubusercontent.com/90641668/206937820-52726f6a-6a07-4478-a505-8528144664ec.jpg)
+
+* Create Users with Array
+
+![Create Users with array](https://user-images.githubusercontent.com/90641668/206937837-cf38ef0d-9a2f-427f-954c-dce63fd3d4f0.jpg)
+
+* Logs User into the system
+
+![Logs User into the system](https://user-images.githubusercontent.com/90641668/206937888-123d4311-6f1c-4133-8662-428e2806b521.jpg)
+
+* Get User info
+
+![Get user info](https://user-images.githubusercontent.com/90641668/206937913-5fcba829-7fdf-4c97-ae8a-636f70615a47.jpg)
+
+* Update User
+
+![Update user](https://user-images.githubusercontent.com/90641668/206937938-a417b33d-5985-4505-a254-e8f1bb76fd14.jpg)
+
+* Logs out current logged in User sesion
+
+![Logs out current logged in user session](https://user-images.githubusercontent.com/90641668/206937990-1bfd1b58-898a-44ac-b4f1-723c7a67eded.jpg)
+
+* Delete User
+
+![Delete User](https://user-images.githubusercontent.com/90641668/206938026-4c7ab34f-b9ac-4f83-87ab-bc7ba648c0b9.jpg)
+
+
+
+
+
+
+
 
 
 
