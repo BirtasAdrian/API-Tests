@@ -22,6 +22,7 @@ Method used: GET
 **Insert**
 
 Insert user by first name and last name.
+
 Method used: POST
 
 **Parameters:**
@@ -37,6 +38,8 @@ Method used: POST
 
 Update a user's first or last name by id.
 
+Method used: PUT
+
 **Parameters:**
 
 * key: **id** and value: **64** represents the persons's id in the database. The other parameters represent the name and the last name
@@ -48,6 +51,8 @@ Update a user's first or last name by id.
 **Delete**
 
 Delete a user by id.
+
+Method used: DELETE
 
 **Parameters:**
 
