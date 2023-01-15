@@ -44,7 +44,8 @@ Method used: PUT
 
 * key: **id** and value: **64** represents the persons's id in the database. The other parameters represent the name and the last name
 
-<img src="API-Test Images/CRUD tests 3.jpg" >  
+![image](https://user-images.githubusercontent.com/90641668/212565744-42a9396b-77b0-4f8b-bebd-f9f2fe318167.png)
+
 
 -----------------
 
