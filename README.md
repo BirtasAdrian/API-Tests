@@ -8,6 +8,8 @@ Below are some API test samples that I tested from my experience.
 
 Get single user by id.
 
+Method used: GET
+
 **Parameters:**
 
 * key: **action** and value: **fetch_single** represents the action to get a single user 
