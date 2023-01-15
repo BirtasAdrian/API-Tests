@@ -22,6 +22,7 @@ Method used: GET
 **Insert**
 
 Insert user by first name and last name.
+Method used: POST
 
 **Parameters:**
 
