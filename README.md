@@ -43,7 +43,7 @@ Method used: PUT
 **Parameters:**
 
 * key: **id** and value: **417** represents the persons's id in the database. The other parameters represent the name and the last name
-
+* Here we have a bug, the response is [{"success" :"0"}] not [{"success" :"1"}] as in the documentation and status code is 200 OK for this.
 
 ![Update](https://user-images.githubusercontent.com/90641668/214389497-c42b36eb-9bc5-4dcd-a9cb-628aac7694b6.jpg)
 
