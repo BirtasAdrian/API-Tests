@@ -114,7 +114,8 @@ API to obtain movie information.
 
 API to create a PetStore
 
-Documentation: https://petstore.swagger.io/
+Documentation: 
+https://petstore.swagger.io/
 
 **Pet Collection**
 
