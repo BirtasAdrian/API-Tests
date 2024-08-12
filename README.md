@@ -105,7 +105,7 @@ API to obtain movie information.
 * key: **t** and value: **Prince of persia** represents movie title to search for
 * key: **plot** and value: **full** return full plot
 * key: **y** and value: **2010** represents year of relase
-* key: **callback** and value: **jsonp** represents JSONP callback name
+* key: **callback** and value: **jsonp** represents JSONP callback name.
 
 <img src="API-Test Images/OMDb API tests.jpg" >
 
